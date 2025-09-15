@@ -13,5 +13,5 @@ python main.py
 ```
 
 
-## Checkpoints Downloding
+## Checkpoints
 https://1024terabox.com/s/1qnt7QRirVvsSc4VFTNhJ1A
