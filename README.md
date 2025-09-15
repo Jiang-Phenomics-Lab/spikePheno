@@ -11,3 +11,7 @@ files=glob('test_images/*S*.PNG')
 ```bash
 python main.py
 ```
+
+
+## Checkpoints Downloding
+https://1024terabox.com/s/1qnt7QRirVvsSc4VFTNhJ1A
